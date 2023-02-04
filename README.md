@@ -75,7 +75,7 @@ https://user-images.githubusercontent.com/82482625/216759687-df714de8-2d67-444f-
 
 ## Connect Us 
 <div align="center">
-<a href="https://twitter.com/Iqbalexperience" target="_blank">
+<a href="https://twitter.com/iqbalexperience" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/iqbalexperience/" target="_blank">
@@ -84,13 +84,13 @@ https://user-images.githubusercontent.com/82482625/216759687-df714de8-2d67-444f-
 <a href="https://www.facebook.com/iqbalexperience/" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/muhammad_v_iqbal/" target="_blank">
+<a href="https://www.instagram.com/iqbalexperience/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.youtube.com/@iqbalexperience" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
-<a href="https://gitlab.com/https://www.upwork.com/freelancers/~014f63d3479762ae28" target="_blank">
+<a href="https://www.upwork.com/workwith/iqbalexperience" target="_blank">
 <img src=https://img.shields.io/badge/upwork-mediumgreen?&style=for-the-badge alt=upwork style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/iqbalexperience" target="_blank">
