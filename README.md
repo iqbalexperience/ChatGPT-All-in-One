@@ -91,7 +91,7 @@ https://user-images.githubusercontent.com/82482625/216759687-df714de8-2d67-444f-
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
 <a href="https://gitlab.com/https://www.upwork.com/freelancers/~014f63d3479762ae28" target="_blank">
-<img src=https://assets-global.website-files.com/603fea6471d9d8559d077603/6092b7514135708162a4be92_Favicon%20256.png alt=gitlab style="margin-bottom: 1px;" />
+<img src=https://www.upwork.com/static/marketing/ui/master/img/logo-1200x630.png alt=gitlab style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/iqbalexperience" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
