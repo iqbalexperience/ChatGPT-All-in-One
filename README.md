@@ -1,5 +1,4 @@
 # ChatGPT All-in-One Search &amp; Share - ChatGPT Chrome Extension
+https://user-images.githubusercontent.com/82482625/216759687-df714de8-2d67-444f-a7c3-a4c5a95f23bf.mp4
 
-<a href="[http://www.youtube.com/watch?feature=player_embedded&v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=lT1tPovC3kw)" target="_blank">
-<img src="[http://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg](https://public-files.gumroad.com/eewgs5p9x72u2an0it4djcjrl7l4)" alt="ChatGPT " width="240" height="180" border="10" />
-</a>
+
