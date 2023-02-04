@@ -35,7 +35,7 @@ https://user-images.githubusercontent.com/82482625/216759687-df714de8-2d67-444f-
 <br/>  
 
 
-## My Skill Set  
+## Languages   
 <table><tr><td valign="top" width="33%">
 
 
@@ -73,7 +73,7 @@ https://user-images.githubusercontent.com/82482625/216759687-df714de8-2d67-444f-
 <br/>  
 
 
-## Connect with me  
+## Connect Us 
 <div align="center">
 <a href="https://twitter.com/https://twitter.com/Iqbalexperie" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -91,48 +91,13 @@ https://user-images.githubusercontent.com/82482625/216759687-df714de8-2d67-444f-
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
 <a href="https://gitlab.com/https://www.upwork.com/freelancers/~014f63d3479762ae28" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
+<img src=https://assets-global.website-files.com/603fea6471d9d8559d077603/6092b7514135708162a4be92_Favicon%20256.png alt=gitlab style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/https://github.com/iqbalexperience" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
-
 <br/>  
 
 
-## Github Stats  
-  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
