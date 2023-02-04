@@ -75,25 +75,25 @@ https://user-images.githubusercontent.com/82482625/216759687-df714de8-2d67-444f-
 
 ## Connect Us 
 <div align="center">
-<a href="https://twitter.com/https://twitter.com/Iqbalexperie" target="_blank">
+<a href="https://twitter.com/Iqbalexperie" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/iqbalexperience/" target="_blank">
+<a href="https://www.linkedin.com/in/iqbalexperience/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/iqbalexperience/" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/https://www.instagram.com/muhammad_v_iqbal/" target="_blank">
+<a href="https://www.instagram.com/muhammad_v_iqbal/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/https://www.youtube.com/watch?v=P5699QEQaX8" target="_blank">
+<a href="https://www.youtube.com/@iqbalexperience" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
 <a href="https://gitlab.com/https://www.upwork.com/freelancers/~014f63d3479762ae28" target="_blank">
-<img src=https://assets-global.website-files.com/603fea6471d9d8559d077603/6092b7514135708162a4be92_Favicon%20256.png alt=gitlab style="margin-bottom: 5px;" />
+<img src=https://assets-global.website-files.com/603fea6471d9d8559d077603/6092b7514135708162a4be92_Favicon%20256.png alt=gitlab style="margin-bottom: 1px;" />
 </a>
-<a href="https://github.com/https://github.com/iqbalexperience" target="_blank">
+<a href="https://github.com/iqbalexperience" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
